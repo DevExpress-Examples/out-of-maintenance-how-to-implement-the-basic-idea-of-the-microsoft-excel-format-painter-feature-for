@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Form1.cs](./CS/WindowsFormsApplication1/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApplication1/Form1.vb))**
+* [FormatPainterProvider.cs](./CS/WindowsFormsApplication1/FormatPainterProvider.cs) (VB: [FormatPainterProvider.vb](./VB/WindowsFormsApplication1/FormatPainterProvider.vb))
+<!-- default file list end -->
 # How to implement the basic idea of the Microsoft Excel "Format Painter" feature for SpreadsheetControl
 
 
