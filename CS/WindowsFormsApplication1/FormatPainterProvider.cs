@@ -13,7 +13,7 @@ namespace WindowsFormsApplication1
     {
         SpreadsheetControl spreadsheetControl;
         BarCheckItem biFormatPainter;
-        Range sourceCell = null;
+        CellRange sourceCell = null;
         FormatPainterMode formatPainterMode = FormatPainterMode.None;
         enum FormatPainterMode { SingleAction, MultipleActions, None }
         public void RegisterFormatPainter(SpreadsheetControl spreadsheet, BarCheckItem biFormatPainter)

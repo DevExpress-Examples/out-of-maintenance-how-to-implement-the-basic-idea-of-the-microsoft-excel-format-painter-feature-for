@@ -11,7 +11,7 @@ Namespace WindowsFormsApplication1
     Public Class FormatPainterProvider
         Private spreadsheetControl As SpreadsheetControl
         Private biFormatPainter As BarCheckItem
-        Private sourceCell As Range = Nothing
+        Private sourceCell As CellRange = Nothing
 
         Private formatPainterMode_Renamed As FormatPainterMode = WindowsFormsApplication1.FormatPainterProvider.FormatPainterMode.None
         Private Enum FormatPainterMode
